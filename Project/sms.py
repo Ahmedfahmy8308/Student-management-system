@@ -255,7 +255,7 @@ def exit_project():
 def connect_db ():
     try:
         global conect
-        conect=pymysql.connect(host='localhost' , user='root' , password='151299')
+        conect=pymysql.connect(host='localhost' , user='root' , password='******')
         global my_cursor
         my_cursor =conect.cursor()
         messagebox.showinfo('successful', 'Connected to database ')
