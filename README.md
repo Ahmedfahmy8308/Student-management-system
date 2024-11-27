@@ -32,6 +32,20 @@ Create a comprehensive Student Management System using Python, Tkinter for the g
    - Ensure data integrity by implementing input validation for user-entered information.
    - Display meaningful error messages to guide users in providing correct information.
 
+## Screenshots
+### 1. log-in
+<img src="Screenshots/3.jpg" alt="Login Screen" width="400">
+
+---
+
+### 2. Home Page
+<img src="Screenshots/2.jpg" alt="Home Screen" width="400">
+
+
+---
+
+### 3. Add Student
+<img src="Screenshots/1.jpg" alt="Add-Student" width="400">
 
 ## How to Run:
 
